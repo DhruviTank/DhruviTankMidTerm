@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029091066535",
+    "firebase_url": "https://dhruvitankmidtermdb.firebaseio.com",
+    "project_id": "dhruvitankmidtermdb",
+    "storage_bucket": "dhruvitankmidtermdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029091066535:android:58fdc2afb3602b63c91182",
+        "android_client_info": {
+          "package_name": "com.example.DhruviTankMidTerm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029091066535-s9sr4q9rkjiue2gl8q57hjvhi2p5ngpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8WPGWVpYg5ppkrD4acN3_jtW8Bv7aWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029091066535-s9sr4q9rkjiue2gl8q57hjvhi2p5ngpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
